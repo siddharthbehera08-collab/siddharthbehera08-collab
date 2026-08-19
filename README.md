@@ -1,18 +1,215 @@
-# 💫 About Me:
-🚀 I’m currently working on<br>Building a strong foundation in machine learning and quantitative concepts. I focus on understanding essential mathematics, probability, statistics, and model intuition. At the same time, I’m improving my data structures and algorithms skills through Java implementations and problem-solving practice.<br><br>🤝 I’m looking to collaborate on<br>Beginner-friendly machine learning research mini-projects, quant learning groups, or exploratory problem statements that emphasize learning, experimentation, and conceptual understanding rather than polished production work.<br><br>💡 I’m looking for help with<br>Improving my fundamentals in machine learning and AI, particularly around math-driven intuition, model evaluation, and connecting theoretical ideas to practical implementations.<br><br>🌱 I’m currently learning<br>Linear algebra, probability, optimization basics for machine learning, introductory reinforcement learning concepts, and algorithmic thinking to enhance my problem-solving skills.<br><br>⚡ Ask me about<br>Implementing core data structures from scratch, breaking down complex topics into step-by-step logical understanding, and approaching technical concepts from a fundamentals-first perspective.<br><br>✨ Fun fact<br>I prefer learning by building small, concept-focused projects instead of rushing into tools or frameworks.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Siddharth%20Kumar%20Behera&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
+<h1 align="center">Hi 👋, I'm Siddharth Kumar Behera</h1>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=siddharthbehera08-collab&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=siddharthbehera08-collab&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthbehera08-collab&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<b>Machine Learning • AI Research • Data Science • Quantum ML</b>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=siddharthbehera08-collab&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Machine+Learning+Enthusiast;AI+%26+Data+Science+Student;Building+RAG+%26+LLM+Systems;Exploring+Quantum+Machine+Learning;Researching+ML+%26+Deep+Learning;Always+Learning+%26+Building" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=siddharthbehera08-collab&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=siddharthbehera08-collab&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+* 🎓 Computer Science & Engineering student specializing in **Data Science**
+* 🤖 Focused on **Machine Learning, Deep Learning, RAG, LLMs and AI systems**
+* 🔬 Exploring **Quantum Machine Learning and hybrid quantum-classical architectures**
+* 📊 Interested in **data-driven modeling, statistical learning and financial/economic analysis**
+* 🧩 Practicing **Data Structures & Algorithms in Java**
+* 🚀 Building projects that combine **research, experimentation and practical AI engineering**
+* 📚 Currently strengthening my foundations in **Linear Algebra, Probability, Statistics and Optimization**
+* 🎯 Goal: Become a strong **Machine Learning / AI Engineer**
+
+---
+
+## 🔬 Current Focus
+
+```text
+Machine Learning
+      │
+      ├── Deep Learning
+      │     ├── Computer Vision
+      │     └── Medical Image Analysis
+      │
+      ├── Generative AI
+      │     ├── RAG
+      │     ├── LLM Applications
+      │     └── Agentic AI
+      │
+      ├── Quantum Machine Learning
+      │     └── Hybrid Quantum-Classical Models
+      │
+      └── Data Science
+            ├── Statistical Modeling
+            ├── Time Series
+            └── Economic / Financial Analysis
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Adaptive Multi-Branch QCNN
+
+Hybrid quantum-classical architecture for brain tumor MRI classification using **PyTorch, PennyLane and CUDA**, with experiments comparing classical CNN and pretrained architectures against quantum-enhanced models.
+
+### 📈 Economic Stress Index
+
+Data-driven macroeconomic stress modeling for India using **PCA, VAR, rolling statistics and regime classification**, with emphasis on avoiding look-ahead bias and evaluating temporal generalization.
+
+### 📚 InsightAI
+
+Retrieval-Augmented Generation system for document intelligence using **LangChain, FAISS, Sentence Transformers and LLM-based question answering**.
+
+### 🤖 AI / RAG Research
+
+Exploring retrieval systems, embeddings, agentic workflows, long-term memory and practical applications of LLMs.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript"/>
+</p>
+
+### Machine Learning & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PennyLane-00BFB3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+### Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+
+### Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,fastapi,streamlit"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
+</p>
+
+---
+
+## 🧪 Research Interests
+
+* Quantum Machine Learning
+* Computer Vision
+* Medical Image Analysis
+* Retrieval-Augmented Generation
+* Large Language Models
+* Agentic AI
+* Time-Series Modeling
+* Statistical Learning
+* AI Evaluation
+* Optimization for Machine Learning
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddharthbehera08-collab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=siddharthbehera08-collab&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthbehera08-collab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthbehera08-collab&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🧩 Problem Solving
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Linear Algebra
+Probability & Statistics
+Optimization
+Deep Learning
+LLM Applications
+RAG Systems
+Agentic AI
+Quantum Machine Learning
+Data Structures & Algorithms
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:siddharthbehera08@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+
+<a href="https://github.com/siddharthbehera08-collab">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>Building. Experimenting. Learning. Repeating.</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
