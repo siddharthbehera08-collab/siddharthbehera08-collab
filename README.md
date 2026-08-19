@@ -50,6 +50,8 @@ Machine Learning
             ├── Statistical Modeling
             ├── Time Series
             └── Economic / Financial Analysis
+```
+---
 🚀 Featured Projects
 🧠 Adaptive Multi-Branch QCNN
 
