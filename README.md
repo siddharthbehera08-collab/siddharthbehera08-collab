@@ -111,15 +111,7 @@ Exploring retrieval systems, embeddings, agentic workflows, long-term memory and
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=siddharthbehera08-collab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthbehera08-collab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
-
-<p align="center">
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthbehera08-collab&theme=tokyonight&hide_border=true"/>
+<img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthbehera08-collab&theme=tokyonight&hide_border=true"/>
 
 </p>
 
