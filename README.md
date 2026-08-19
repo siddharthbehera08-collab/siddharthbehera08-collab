@@ -116,27 +116,3 @@ Data Structures & Algorithms
 🤝 Let's Connect
 <p align="center"> <a href="mailto:siddharthbehera08@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="48"/> </a> <a href="https://github.com/siddharthbehera08-collab"> <img src="https://skillicons.dev/icons?i=github" height="48"/> </a> </p>
 <p align="center"> <i>Building. Experimenting. Learning. Repeating.</i> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/> ```
-One thing I'd change from the previous version
-
-I added:
-
-🐍 Python + Java + JS + TypeScript
-🔥 PyTorch + TensorFlow
-📊 NumPy + Pandas + SciPy + Matplotlib + Seaborn
-🧠 Scikit-learn + OpenCV + PennyLane
-🤗 Hugging Face
-🔗 LangChain + LangGraph
-📚 FAISS + RAG
-🦙 Ollama
-⚛️ Quantum ML
-⚛️ React + Node + Express
-⚡ FastAPI + Streamlit
-🍃 MongoDB + MongoDB Atlas
-🐬 MySQL
-🐙 Git + GitHub
-🐳 Docker
-💻 VS Code
-🖱️ Cursor
-🚀 Antigravity IDE
-☁️ Vercel + Netlify
-Linux
