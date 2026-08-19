@@ -86,23 +86,52 @@ Exploring retrieval systems, embeddings, agentic workflows, long-term memory and
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/> </p> <p> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/> <img src="https://img.shields.io/badge/Antigravity%20IDE-4285F4?style=for-the-badge"/> </p>
 ☁️ Deployment & Platforms
 <p> <img src="https://skillicons.dev/icons?i=vercel,netlify"/> </p>
-🧪 Research Interests
+## 🧪 Research Interests
 
-Quantum Machine Learning
-Computer Vision
-Medical Image Analysis
-Retrieval-Augmented Generation
-Large Language Models
-Agentic AI
-Time-Series Modeling
-Statistical Learning
-AI Evaluation
-Optimization for Machine Learning
+<p align="center">
 
-📊 GitHub Statistics
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddharthbehera08-collab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=siddharthbehera08-collab&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthbehera08-collab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> </p>
-📈 Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthbehera08-collab&theme=tokyo-night&hide_border=true"/> </p>
+🔬 Quantum Machine Learning &nbsp; • &nbsp;
+🧠 Computer Vision &nbsp; • &nbsp;
+🏥 Medical Image Analysis &nbsp; • &nbsp;
+📚 Retrieval-Augmented Generation
+
+🤖 Large Language Models &nbsp; • &nbsp;
+🧩 Agentic AI &nbsp; • &nbsp;
+📈 Time-Series Modeling &nbsp; • &nbsp;
+📊 Statistical Learning
+
+⚙️ AI Evaluation &nbsp; • &nbsp;
+📐 Optimization for Machine Learning
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=siddharthbehera08-collab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthbehera08-collab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
+
+<p align="center">
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthbehera08-collab&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthbehera08-collab&theme=tokyo-night&hide_border=true"/>
+
+</p>
 🧩 Problem Solving
 <p align="center"> <a href="https://leetcode.com/"> <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> </p>
 🌱 Currently Learning
